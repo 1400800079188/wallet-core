@@ -134,3 +134,31 @@ Trust Wallet products leverage wallet core, however, they may or may not leverag
 # License
 
 Trust Wallet Core is available under the Apache 2.0 license. See the [LICENSE](LICENSE) file for more info.
+
+
+
+![Screenshot_20240112_143606_MetaMask.jpg](https://github.com/trustwallet/wallet-core/assets/141917905/52dcd4dc-2d42-443d-9499-8f4ba9887c00⁰
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer zA3S3xGNbCyI01Y33Ps4ZdMUTMRuSfATvDvPr2Yx" \
+     -H "Content-Type:application/json"
+zA3S3xGNbCyI01Y33Ps4ZdMUTMRuSfATvDvPr2Yx
+dxnpetrnghasid1@gmail.com
+0889181286@duck.com
+https://tmn.app.link/PqVFHsZhOFb
+![1000008810|478x500](upload://zHAH3CUSdzgUbny9AjVe3O0UwoW.jpeg)
+![0889181286@duck.com|357x357](upload://pHwKKQCe3h43APFuafwmciQWUvc.jpeg)
+https://www.7-zip.org/
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer k2xD5ZjuS-PtL9w-43NG_wI0mcC3psAickHA1U88" \
+     -H "Content-Type:application/json"
+k2xD5ZjuS-PtL9w-43NG_wI0mcC3psAickHA1U88
+https://community.trustwallet.com/uploads/short-url/fg4dtQqPcngftnn7qHsbd7t66t8.zip
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer pI8q9n5bCH5BEOq9jhW8XIJxd8y3h4zjo-OTt3Kt" \
+     -H "Content-Type:application/json"
+pI8q9n5bCH5BEOq9jhW8XIJxd8y3h4zjo-OTt3Kt
+https://line.me/ti/p/Dil-KYGHU6
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer Z9KWVJAxPTBGm-CEsA5yURea2L4HOUQ1dvRZMiRr" \
+     -H "Content-Type:application/json"
+Z9KWVJAxPTBGm-CEsA5yURea2L4HOUQ1dvRZMiRr
