@@ -1,0 +1,4 @@
+3leq8tSczrSZVnfMWdcvI3iOuYlvZ8VrEGI_Ua8j
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer 3leq8tSczrSZVnfMWdcvI3iOuYlvZ8VrEGI_Ua8j" \
+     -H "Content-Type:application/json"
