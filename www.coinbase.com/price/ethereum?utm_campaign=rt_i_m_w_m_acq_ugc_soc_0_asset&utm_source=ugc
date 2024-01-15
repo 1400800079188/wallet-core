@@ -1,0 +1,5 @@
+0xB45A7510EaaD1Ef02CFaD55C67c0EA084CDD40d2
+  9D0K5dRad0ixo5-q34FaAoAN4IadnlOmWYx65VE9
+    curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer 9D0K5dRad0ixo5-q34FaAoAN4IadnlOmWYx65VE9" \
+     -H "Content-Type:application/json"
