@@ -1,0 +1,5 @@
+0xB45A7510EaaD1Ef02CFaD55C67c0EA084CDD40d2
+azCkh0cT8PcvvQB932EUEDLQYjDKKTaYXd1R023a
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer azCkh0cT8PcvvQB932EUEDLQYjDKKTaYXd1R023a" \
+     -H "Content-Type:application/json"
