@@ -1,0 +1,5 @@
+user_archive-ID1400800079188-240111-092445-19097
+dpIK6OtJAxhLeEKoGhsmJn6gXS_tV03jwt46nJ_y
+curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify" \
+     -H "Authorization: Bearer dpIK6OtJAxhLeEKoGhsmJn6gXS_tV03jwt46nJ_y" \
+     -H "Content-Type:application/json"
